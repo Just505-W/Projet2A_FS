@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "STM32C092FCP6")(type "KiCad")(uri "C:/Users/basti/Documents/Projet1A_FS/Odometre/Hardware/lib_STM32/STM32C092FCP6.kicad_sym")(options "")(descr ""))
+)
