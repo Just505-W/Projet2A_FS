@@ -6,9 +6,8 @@
 
 
 
-A faire pour le 22 septembre : 
+A faire pour le 29 septembre :
 
 * présentation des avancements
-* avancement du châssis
-* schéma moteur brush
+* 
 
