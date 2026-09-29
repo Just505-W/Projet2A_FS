@@ -12,7 +12,7 @@ Professeur encadrant : M.Seigneurbieux
 Ce projet a pour objectif de réaliser des composants utiles au bon fonctionnement d'une monoplace dans le cadre du concours **FORMULA STUDENT**. Nous avions déjà réalisé plusieurs cartes l'année passée - il s'agit d'un odomètre, BMS, datalogger, carte de puissance et carte de contrôle. Nous allons reprendre ces carte avec pour objectif que concevoir une première version de ce que l'on voudra à terme présenter au concours. 
 
 
-## Obectifs
+## Objectifs
 
 |MÉCANIQUE|ÉLECTRIQUE DE PUISSANCE|ÉLECTRONIQUE BASSE TENSION|LOGICIEL|SÉCURITÉ|GESTION DE PROJET|
 |:-:|:-:|:-:|:-:|:-:|:-:|
