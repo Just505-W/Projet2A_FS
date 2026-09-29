@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "projet_courant_mesure_bargraphe")(type "KiCad")(uri "${KIPRJMOD}/projet_courant_mesure_bargraphe.kicad_sym")(options "")(descr ""))
+)
