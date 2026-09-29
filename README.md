@@ -14,53 +14,23 @@ Ce projet a pour objectif de réaliser des composants utiles au bon fonctionneme
 
 ## Obectifs
 
-|MÉCANIQUE|ÉLECTRIQUE DE PUISSANCE|Datalogger|BMS|Software|
+|MÉCANIQUE|ÉLECTRIQUE DE PUISSANCE|ÉLECTRONIQUE BASSE TENSION|LOGICIEL|Software|
 |:-:|:-:|:-:|:-:|:-:|
-|Châssis 
-Suspension 
-Direction 
-Freinage 
-Roues/pneus 
-Transmission
-Supports moteur 
-Ergonomie 
-Carrosserie éventuelle.|Athénaïs|Aïssa \\ Joseph|Arthur|Amélie \\ Bastien|
+|Châssis |Batterie |Alimentation 12 V 
+|Suspension |BMS |Microcontrôleur 
+|Direction |Contacteurs |Capteurs 
+|Freinage |Précharge |Acquisition 
+|Roues/pneus |Fusibles |Température 
+|Transmission|Distribution HV |Instrumentation
+|Supports moteur |Moteur |Courant 
+|Ergonomie |Onduleur |Tension 
+|Carrosserie éventuelle|Câblage |Vitesse 
+||Protections |Communication CAN 
+||Isolation
 
 
 
 
-Batterie 
-BMS 
-Contacteurs 
-Précharge 
-Fusibles 
-Distribution HV 
-Moteur 
-Onduleur 
-Câblage 
-Protections 
-Isolation
-
-
-<<<<<<< Updated upstream
-A faire pour le 29 septembre :
-
-* présentation des avancements
-* commencer à voir pour un PCB (cf photo WhatsApp) qui permet de tout relier ( capteur à effet hall, stm32, onduleur....)
-
-=======
-ÉLECTRONIQUE BASSE TENSION
-alimentation 12 V ;
-microcontrôleur ;
-capteurs ;
-acquisition ;
-température ;
-courant ;
-tension ;
-vitesse ;
-communication CAN ;
-instrumentation.
-LOGICIEL
 firmware ;
 contrôle moteur ;
 acquisition ;
@@ -68,6 +38,7 @@ télémétrie ;
 diagnostic ;
 gestion des erreurs ;
 interface éventuelle.
+
 SÉCURITÉ
 arrêt d'urgence ;
 isolation ;
@@ -77,6 +48,7 @@ protection contre les défauts ;
 sécurité batterie ;
 sécurité mécanique ;
 procédures de test.
+
 GESTION DE PROJET
 planning ;
 budget ;
@@ -86,4 +58,9 @@ documentation ;
 tests ;
 validation ;
 règlement.
->>>>>>> Stashed changes
+
+A faire pour le 29 septembre :
+
+* présentation des avancements
+* commencer à voir pour un PCB (cf photo WhatsApp) qui permet de tout relier ( capteur à effet hall, stm32, onduleur....)
+
