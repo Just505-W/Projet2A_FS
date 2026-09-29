@@ -14,50 +14,28 @@ Ce projet a pour objectif de réaliser des composants utiles au bon fonctionneme
 
 ## Obectifs
 
-|MÉCANIQUE|ÉLECTRIQUE DE PUISSANCE|ÉLECTRONIQUE BASSE TENSION|LOGICIEL|Software|
-|:-:|:-:|:-:|:-:|:-:|
-|Châssis |Batterie |Alimentation 12 V 
-|Suspension |BMS |Microcontrôleur 
-|Direction |Contacteurs |Capteurs 
-|Freinage |Précharge |Acquisition 
-|Roues/pneus |Fusibles |Température 
-|Transmission|Distribution HV |Instrumentation
-|Supports moteur |Moteur |Courant 
-|Ergonomie |Onduleur |Tension 
-|Carrosserie éventuelle|Câblage |Vitesse 
-||Protections |Communication CAN 
-||Isolation
+|MÉCANIQUE|ÉLECTRIQUE DE PUISSANCE|ÉLECTRONIQUE BASSE TENSION|LOGICIEL|SÉCURITÉ|GESTION DE PROJET|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|Châssis |Batterie |Alimentation 12 V |Firmware |Arrêt d'urgence |Planning 
+|Suspension |BMS |Microcontrôleur |Contrôle moteur |Isolation |Budget
+|Direction |Contacteurs |Capteurs |Acquisition |Coupure HV |Achats
+|Freinage |Précharge |Acquisition |Télémétrie |Interlocks |Fabrication
+|Roues/pneus |Fusibles |Température |Diagnostic |Protection contre les défauts |Documentation
+|Transmission|Distribution HV |Instrumentation|Interface éventuelle|Sécurité batterie |Tests
+|Supports moteur |Moteur |Courant |Gestion des erreurs |Sécurité mécanique |Validation
+|Ergonomie |Onduleur |Tension ||Procédures de test|Règlement
+|Carrosserie éventuelle|Câblage |Vitesse ||
+||Protections |Communication CAN |||
+||Isolation|||
 
 
+ 
+ 
+ 
+ 
+ 
+ 
 
-
-firmware ;
-contrôle moteur ;
-acquisition ;
-télémétrie ;
-diagnostic ;
-gestion des erreurs ;
-interface éventuelle.
-
-SÉCURITÉ
-arrêt d'urgence ;
-isolation ;
-coupure HV ;
-interlocks ;
-protection contre les défauts ;
-sécurité batterie ;
-sécurité mécanique ;
-procédures de test.
-
-GESTION DE PROJET
-planning ;
-budget ;
-achats ;
-fabrication ;
-documentation ;
-tests ;
-validation ;
-règlement.
 
 A faire pour le 29 septembre :
 
