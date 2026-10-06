@@ -3,10 +3,10 @@
 Bienvenu sur le dépot GitHub d'un des groupes de Projet de deuxième année de l'ENSEA.   
 Participants du projet :   
 WOELFFEL Justine           NOICI Amélie  
-IGIER Charles              FORBICE Mattéo            
+IGIER Charles              FORBICE Mattéo            
 GERVAIS Joseph
 
-Professeur encadrant : M.Seigneurbieux
+Professeur encadrant : M.Seigneurbieux 
 
 
 Ce projet a pour objectif de réaliser des composants utiles au bon fonctionnement d'une monoplace dans le cadre du concours **FORMULA STUDENT**. Nous avions déjà réalisé plusieurs cartes l'année passée - il s'agit d'un odomètre, BMS, datalogger, carte de puissance et carte de contrôle. Nous allons reprendre ces carte avec pour objectif que concevoir une première version de ce que l'on voudra à terme présenter au concours. 
