@@ -3,7 +3,7 @@
 Bienvenu sur le dépot GitHub d'un des groupes de Projet de deuxième année de l'ENSEA.   
 Participants du projet :   
 WOELFFEL Justine           NOICI Amélie  
-IGIER Charles                 FORBICE Mattéo            
+IGIER Charles                  FORBICE Mattéo            
 GERVAIS Joseph
 
 Professeur encadrant : M.Seigneurbieux 
