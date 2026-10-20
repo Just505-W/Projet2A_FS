@@ -1,0 +1,20 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 7848cba2-c295-4045-adbc-5490b534cd62)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (rectangle (start 27.94 21.59) (end 116.84 90.17)
+    (stroke (width 0) (type default))
+    (fill (type none))
+    (uuid 32e1b2cb-f838-48ca-aadb-d6c7e7c2aaf5)
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
