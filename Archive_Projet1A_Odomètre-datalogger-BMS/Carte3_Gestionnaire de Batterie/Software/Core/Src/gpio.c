@@ -1,0 +1,53 @@
+#include "gpio.h"
+#include "main.h"
+
+void test_led_bouton(){
+	int etat = HAL_GPIO_ReadPin(GPIOA,GPIO_PIN_4);
+	HAL_GPIO_WritePin(GPIOA,GPIO_PIN_5,1);
+	HAL_GPIO_WritePin(GPIOA,GPIO_PIN_11,etat);
+	HAL_Delay(250);
+
+	HAL_GPIO_WritePin(GPIOA,GPIO_PIN_5,0);
+	HAL_GPIO_WritePin(GPIOA,GPIO_PIN_11,1-etat);
+	HAL_Delay(250);
+
+
+	if(etat == 0){
+		HAL_GPIO_WritePin(GPIOA,GPIO_PIN_0,1);
+			HAL_GPIO_WritePin(GPIOA,GPIO_PIN_1,1);
+			HAL_GPIO_WritePin(GPIOA,GPIO_PIN_2,1);
+			HAL_GPIO_WritePin(GPIOA,GPIO_PIN_6,1);
+			HAL_GPIO_WritePin(GPIOA,GPIO_PIN_7,1);
+			HAL_Delay(500);
+			HAL_GPIO_WritePin(GPIOA,GPIO_PIN_0,0);
+			HAL_GPIO_WritePin(GPIOA,GPIO_PIN_1,1);
+			HAL_GPIO_WritePin(GPIOA,GPIO_PIN_2,1);
+			HAL_GPIO_WritePin(GPIOA,GPIO_PIN_6,1);
+			HAL_GPIO_WritePin(GPIOA,GPIO_PIN_7,1);
+			HAL_Delay(500);
+			HAL_GPIO_WritePin(GPIOA,GPIO_PIN_0,0);
+			HAL_GPIO_WritePin(GPIOA,GPIO_PIN_1,0);
+			HAL_GPIO_WritePin(GPIOA,GPIO_PIN_2,1);
+			HAL_GPIO_WritePin(GPIOA,GPIO_PIN_6,1);
+			HAL_GPIO_WritePin(GPIOA,GPIO_PIN_7,1);
+			HAL_Delay(500);
+			HAL_GPIO_WritePin(GPIOA,GPIO_PIN_0,0);
+			HAL_GPIO_WritePin(GPIOA,GPIO_PIN_1,0);
+			HAL_GPIO_WritePin(GPIOA,GPIO_PIN_2,0);
+			HAL_GPIO_WritePin(GPIOA,GPIO_PIN_6,1);
+			HAL_GPIO_WritePin(GPIOA,GPIO_PIN_7,1);
+			HAL_Delay(500);
+			HAL_GPIO_WritePin(GPIOA,GPIO_PIN_0,0);
+			HAL_GPIO_WritePin(GPIOA,GPIO_PIN_1,0);
+			HAL_GPIO_WritePin(GPIOA,GPIO_PIN_2,0);
+			HAL_GPIO_WritePin(GPIOA,GPIO_PIN_6,0);
+			HAL_GPIO_WritePin(GPIOA,GPIO_PIN_7,1);
+			HAL_Delay(500);
+			HAL_GPIO_WritePin(GPIOA,GPIO_PIN_0,0);
+			HAL_GPIO_WritePin(GPIOA,GPIO_PIN_1,0);
+			HAL_GPIO_WritePin(GPIOA,GPIO_PIN_2,0);
+			HAL_GPIO_WritePin(GPIOA,GPIO_PIN_6,0);
+			HAL_GPIO_WritePin(GPIOA,GPIO_PIN_7,0);
+	}
+
+}

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "projo")(type "KiCad")(uri "C:/Users/basti/Documents/Projet1A_FS/Odometre/Hardware/lib_STM32/Library.pretty/projo.pretty")(options "")(descr ""))
+)
