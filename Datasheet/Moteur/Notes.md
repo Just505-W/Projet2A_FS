@@ -1,18 +1,29 @@
  Moteur : https://ozo-electric.com/fr/moteurs-centraux-brushless/679130-moteur-electrique-3500w-central-brushless-bldc.html
 
-Puissance nominale : 3500W<br>
-Voltage : 48V, 60V ou 72V en fonction de la vitesse de pointe souhaitée.<br>
-Puissance maximale = 5000W<br>
-Vitesse de rotation maxi : 6000 Tr/min.<br>
-Poids : 11,4kg<br>
+
+|Paramètre	|Valeur annoncée|
+|:---|---:|
+|Puissance nominale	|3500 W|
+|Puissance maximale	|5000 W|
+|Tension|	48 / 60 / 72 V <br>en fonction de la vitesse <br> de pointe souhaitée|
+|Couple nominal|	50 Nm|
+|Courant maximal|	120 A|
+|Vitesse maximale|	6000 tr/min|
+|Kv	|138 RPM/V|
+|Paires de pôles|	4|
+|Rendement maximal|	92 %|
+|Masse|	11,4 kg|
+|Protection|	IP65|
+|Refroidissement|	Air|
+|Position rotor	|Interne|
+|Ø Arbre cylindrique  <br>avec logement pour clavette |25mm<br> 8mm |
 
 
-Sonde de température intégrée (KTY 84-130) et codeur magnétique.
+Longueur de l'axe = 50mm <br>
+Longueur des câbles = 800mm <br>
+Sonde : 
+- température intégrée (KTY 84-130)
+- codeur magnétique.
 
-arbre cylindrique diamètre 25mm avec logement pour clavette de 8mm.
-
-Longueur de l'axe = 50mm
-
-Longueur des câbles = 800mm
-
-
+Si la carte de contrôle fonctionne : on prend du 48V
+Si la carte de contrôle ne foncitonne pas : on prend du 72V
