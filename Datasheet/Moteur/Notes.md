@@ -9,7 +9,7 @@
 |Couple nominal|	50 Nm|
 |Courant maximal|	120 A|
 |Vitesse maximale|	6000 tr/min|
-|Kv	|138 RPM/V|
+|Kv	|138 RPM/V ou 44 RPM/V|
 |Paires de pôles|	4|
 |Rendement maximal|	92 %|
 |Masse|	11,4 kg|
