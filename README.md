@@ -38,11 +38,11 @@ Ce projet a pour objectif de réaliser des composants utiles au bon fonctionneme
 
 
 
-\## Important : Soutenance le 15 décembre
+### Important : Soutenance le 15 décembre
 
 
 
-\# Checklist : 
+#### Checklist : 
 
 
 
