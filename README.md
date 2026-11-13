@@ -52,7 +52,7 @@ Ce projet a pour objectif de réaliser des composants utiles au bon fonctionneme
 * Faire le Gantt (ou du moins ce qu'il faut faire et quand il faut le faire)
 * Documentation de ce qui à été fait :
 
-  * Regrouper toutes le documentations
+  * Regrouper toutes les documentations
   * Objectifs ?
   * Conclusion lors du 15 décembre
   * Ce qu'on espère avant la prochaine soutenance
