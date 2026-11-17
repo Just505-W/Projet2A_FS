@@ -28,7 +28,7 @@ Projet/Src/utils.o: ../Projet/Src/utils.c ../Core/Inc/main.h \
  ../Drivers/STM32C0xx_HAL_Driver/Inc/stm32c0xx_hal_tim.h \
  ../Drivers/STM32C0xx_HAL_Driver/Inc/stm32c0xx_hal_tim_ex.h \
  ../Drivers/STM32C0xx_HAL_Driver/Inc/stm32c0xx_hal_fdcan.h \
- C:/Users/justi/OneDrive/Belgeler/Dossier_GIT/Projet2A_FS/Archive_Projet1A_Odomètre-datalogger-BMS/Carte1_Odometre/Software/Projet/Inc/utils.h \
+ C:/Users/Amélie/Documents/GitHub/Projet2A_FS/Archive_Projet1A_Odomètre-datalogger-BMS/Carte1_Odometre/Software/Projet/Inc/utils.h \
  ../Core/Inc/gpio.h ../Core/Inc/can.h ../Core/Inc/odo.h
 ../Core/Inc/main.h:
 ../Drivers/STM32C0xx_HAL_Driver/Inc/stm32c0xx_hal.h:
@@ -60,7 +60,7 @@ Projet/Src/utils.o: ../Projet/Src/utils.c ../Core/Inc/main.h \
 ../Drivers/STM32C0xx_HAL_Driver/Inc/stm32c0xx_hal_tim.h:
 ../Drivers/STM32C0xx_HAL_Driver/Inc/stm32c0xx_hal_tim_ex.h:
 ../Drivers/STM32C0xx_HAL_Driver/Inc/stm32c0xx_hal_fdcan.h:
-C:/Users/justi/OneDrive/Belgeler/Dossier_GIT/Projet2A_FS/Archive_Projet1A_Odomètre-datalogger-BMS/Carte1_Odometre/Software/Projet/Inc/utils.h:
+C:/Users/Amélie/Documents/GitHub/Projet2A_FS/Archive_Projet1A_Odomètre-datalogger-BMS/Carte1_Odometre/Software/Projet/Inc/utils.h:
 ../Core/Inc/gpio.h:
 ../Core/Inc/can.h:
 ../Core/Inc/odo.h:

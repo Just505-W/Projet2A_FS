@@ -61,8 +61,8 @@ all: main-build
 main-build: odometrie_v2.elf secondary-outputs
 
 # Tool invocations
-odometrie_v2.elf odometrie_v2.map: $(OBJS) $(USER_OBJS) C:\Users\justi\OneDrive\Belgeler\Dossier_GIT\Projet2A_FS\Archive_Projet1A_Odomètre-datalogger-BMS\Carte1_Odometre\Software\STM32C092FCPX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
-	arm-none-eabi-gcc -o "odometrie_v2.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m0plus -T"C:\Users\justi\OneDrive\Belgeler\Dossier_GIT\Projet2A_FS\Archive_Projet1A_Odomètre-datalogger-BMS\Carte1_Odometre\Software\STM32C092FCPX_FLASH.ld" --specs=nosys.specs -Wl,-Map="odometrie_v2.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+odometrie_v2.elf odometrie_v2.map: $(OBJS) $(USER_OBJS) C:\Users\Amélie\Documents\GitHub\Projet2A_FS\Archive_Projet1A_Odomètre-datalogger-BMS\Carte1_Odometre\Software\STM32C092FCPX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
+	arm-none-eabi-gcc -o "odometrie_v2.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m0plus -T"C:\Users\Amélie\Documents\GitHub\Projet2A_FS\Archive_Projet1A_Odomètre-datalogger-BMS\Carte1_Odometre\Software\STM32C092FCPX_FLASH.ld" --specs=nosys.specs -Wl,-Map="odometrie_v2.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 
