@@ -68,6 +68,19 @@ Pour la présentation projet
 -- mettre a jour le diagramm de gantt avec les vrai durées
 -- taches en cours 
 -- taches suivante 
+-- MAJ gantt
+- MAJ chemain critique 
+- imprévu / jalons
+- registre des risques / opportunités
+- argent (combien dépenser/combien on prévois)
+- RSE
+--impact environnement 
+-- impact sociétal
+-- gouvernance / ethique 
+
+
+
+
 
 
 
