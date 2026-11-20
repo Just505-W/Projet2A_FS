@@ -61,7 +61,13 @@ Ce projet a pour objectif de réaliser des composants utiles au bon fonctionneme
 
 
 
+Pour la présentation projet 
 
+- regarder diagramme de gantt
+-- taches finies 
+-- mettre a jour le diagramm de gantt avec les vrai durées
+-- taches en cours 
+-- taches suivante 
 
 
 
